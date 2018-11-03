@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Leaf_randomUser</string>
+
+
+    <string-array name="android_dropdown_arrays">
+        <item>Filter</item>
+        <item>Sort by Name</item>
+        <item>Sort by Mobile</item>
+        <item>Sort by Email</item>
+        <item>Sort by Birthday</item>
+    </string-array>
+</resources>
